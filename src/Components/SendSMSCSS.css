@@ -1,0 +1,23 @@
+.inputBox{
+    border-color: cadetblue;
+    width: 300px;
+    height: 20px;
+    border-radius: 20px;
+}
+
+.msgBox{
+    border-color: cadetblue;
+    width: 300px;
+    height:150px;
+    border-radius: 10px;
+}
+
+.btnClass{
+    background-color: cadetblue;
+    color: white;
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    border-color: white;
+    box-shadow: white;
+}
